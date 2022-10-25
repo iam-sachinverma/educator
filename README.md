@@ -7,9 +7,6 @@ Every year through the government exams plenty of teachers are hired and posted 
 Digitizing Manual Record of Teachers with a Portal App.
 
 
-Live Hosted At: [Heroku Link](https://educator-io.herokuapp.com/)
-
-
 ![img](https://i.postimg.cc/q7p5n1sY/login.png "SS")
 
 ![img](https://i.postimg.cc/76WsFDF8/mail.png "SS")
@@ -77,7 +74,3 @@ Install project with npm
   npm install
 ```
 Setup ENV. variables and run app with ```npm start``` on both dir root/frontend
-## Authors
-
-- [@ThisIsFaar](https://www.github.com/thisisfaar)
-- [@Vipukr059](https://www.github.com/vipulkr059)
